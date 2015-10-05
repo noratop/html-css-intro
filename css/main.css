@@ -55,3 +55,24 @@ table td {
     border: 1px grey solid;
     padding: 10px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    overflow:hidden;
+}
+
+footer a {
+    color: tomato;
+    text-decoration:none;
+}
+
+.otherpages {
+    float: left;
+    width : 50%;
+}
+
+.partners {
+    float: right;
+    width: 50%;
+}
