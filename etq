@@ -1,0 +1,53 @@
+[33mcommit 4ab66b49fbbf764bdaca6f6854b32febb23d39fb[m
+Author: Nora Top <top.nora@gmail.com>
+Date:   Mon Oct 5 18:01:23 2015 +0000
+
+    added style to table in schedule section
+
+[33mcommit 4cb4058b7cd292b22be1014b7da243521a7c11ec[m
+Author: Nora Top <top.nora@gmail.com>
+Date:   Mon Oct 5 17:55:32 2015 +0000
+
+    added tbody and thead tags to table
+
+[33mcommit f787baed4f8403ee7cacd83edf44d35e1a418778[m
+Author: Nora Top <top.nora@gmail.com>
+Date:   Mon Oct 5 17:51:33 2015 +0000
+
+    added content to schedule section
+
+[33mcommit a27f50b2a60cb9b30771bf246dc7ef622832df0c[m
+Author: Nora Top <top.nora@gmail.com>
+Date:   Mon Oct 5 17:47:03 2015 +0000
+
+    added some css rules to the nav element
+
+[33mcommit 442c14b8c435864fe64f8a722f54953a79bcc66a[m
+Author: Nora Top <top.nora@gmail.com>
+Date:   Mon Oct 5 17:29:26 2015 +0000
+
+    added normalize.css
+
+[33mcommit 328ed97dba6da228485ddcf2d0225a10707e225f[m
+Author: Nora Top <top.nora@gmail.com>
+Date:   Mon Oct 5 17:18:15 2015 +0000
+
+    moved style to external file
+
+[33mcommit 1cb04d151283eea3218e2912b8f85c50b34eeac5[m
+Author: Ziad Saab <ziad.saab@gmail.com>
+Date:   Mon Oct 5 13:09:23 2015 -0400
+
+    Create README.md
+
+[33mcommit 9b9ed58200bb84c6b29155da9afd4bbf195e2f67[m
+Author: Ziad Saab <ziad.saab@gmail.com>
+Date:   Mon Oct 5 16:08:08 2015 +0000
+
+    added more annotations in CSS
+
+[33mcommit 61208d3b131ff7c36e520fb0ba6e5d24140a6ed8[m
+Author: Ziad Saab <ziad.saab@gmail.com>
+Date:   Mon Oct 5 16:06:45 2015 +0000
+
+    html & css intro

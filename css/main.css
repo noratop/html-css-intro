@@ -22,36 +22,33 @@ section {
     background-color: rgba(0, 255, 0, 0.5);
 }
 /* select all the UL elements that are anywhere insde a NAV element */
+nav {
+    background-color: #f2f2f2;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
 nav ul {
     list-style: none;
-    padding: 10px;
     margin: 0;
 }
+
 nav li {
     display: inline-block;
     border: 1px solid black;
     padding: 5px;
 }
+
 nav a {
     text-decoration: none;
 }
 
-nav {
-    background-color: #f2f2f2;
-    margin-bottom: 30px;
-}
 
 table {
-    text-align:center;
     border-collapse: collapse;
-    border-spacing: 2px;
 }
 
-table thead {
-    font-weight: bolder;
-}
-
-table td {
+table th,td {
     border: 1px grey solid;
     padding: 10px;
 }
