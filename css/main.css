@@ -45,16 +45,10 @@ nav a {
 
 
 table {
-    text-align:center;
     border-collapse: collapse;
-    border-spacing: 2px;
 }
 
-table thead {
-    font-weight: bolder;
-}
-
-table td {
+table th,td {
     border: 1px grey solid;
     padding: 10px;
 }
