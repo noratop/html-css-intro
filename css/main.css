@@ -76,3 +76,15 @@ footer a {
     float: right;
     width: 50%;
 }
+
+.partners ul {
+    list-style: none;
+}
+
+.partners li {
+    display: inline-block;
+}
+
+.partners img {
+    width: 100px;
+}
